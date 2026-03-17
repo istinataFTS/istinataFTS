@@ -20,8 +20,8 @@
 <br>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istinataFTS&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=istinataFTS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&text_bold=true&line_height=30" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=istinataFTS&layout=compact&theme=transparent&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=istinataFTS&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&text_bold=true&line_height=30" />
 </p>
 
 <br>
