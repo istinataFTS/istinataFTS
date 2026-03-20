@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Enjoying solving logical and non-logical problems, understanding the root cause of certain things and asking why.
+ Curious about solving both logical and unconventional problems, understanding the root cause of things and asking why.
 </p>
 
 <br>
@@ -25,11 +25,3 @@
 </p>
 
 <br>
-
-<h3 align="center">Featured Project</h3>
-
-<p align="center">
-  <a href="https://github.com/istinataFTS/MobileFitnessTracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=istinataFTS&repo=MobileFitnessTracker&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
