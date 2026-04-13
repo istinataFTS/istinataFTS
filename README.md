@@ -23,5 +23,4 @@
   <img width="48%" src="https://github-readme-stats-brown-chi-44.vercel.app/api/top-langs/?username=istinataFTS&layout=compact&theme=transparent&hide_border=true" />
   <img width="48%" src="https://github-readme-stats-brown-chi-44.vercel.app/api?username=istinataFTS&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&line_height=30" />
 </p>
-
 <br>
