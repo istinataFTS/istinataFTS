@@ -1,7 +1,7 @@
 <h1 align="center">Marin Dinchev</h1>
 
 <p align="center">
-  Fourth-year student at Technical University of Sofia
+  Technical University of Sofia graduate
 </p>
 
 <p align="center">
